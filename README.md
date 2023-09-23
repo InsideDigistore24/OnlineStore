@@ -9,7 +9,7 @@ Explore our range of exciting digital products and discover how they can enhance
 - [Product 1](product1.html): Description of Product 1.
 - [Product 2](product2.html): Description of Product 2.
 
-![Digital Products](product_image.jpg)
+![Digital Products](logo_wide.svg)
 
 [Click here to explore our products](products.html)
 
